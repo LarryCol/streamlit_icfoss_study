@@ -6,3 +6,4 @@ share
 commands_used_streamlit.txt
 doc_app.py
 pyenv.cfg
+*.txt
